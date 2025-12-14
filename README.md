@@ -1,2 +1,4 @@
-# NHANES-CORIZO
-Data Analysis and Visualization 
+# NHANES-Exploratory-Data-Analysis & Visualization 
+CORIZO (Mini project)
+Vivekananda NV 
+
